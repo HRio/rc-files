@@ -1,0 +1,7 @@
+# For Happy Hacking Keyboard Lite (USB)
+keycode  26 = e E eacute
+keycode  47 = semicolon colon odiaeresis Odiaeresis
+keycode  34 = bracketleft braceleft  aring Aring
+keycode  48 = apostrophe quotedbl adiaeresis Adiaeresis
+keycode 134 = Mode_switch
+keycode 133 = SunCompose
