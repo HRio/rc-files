@@ -1,0 +1,8 @@
+# For Happy Hacking Keyboard Lite (PS2)
+keycode  26 = e E eacute
+keycode  34 = bracketleft braceleft aring Aring
+keycode  47 = semicolon colon odiaeresis Odiaeresis
+keycode  48 = apostrophe quotedbl adiaeresis Adiaeresis
+!keycode 133 = SunCompose
+keycode 133 = Super_L
+keycode 134 = Mode_switch
