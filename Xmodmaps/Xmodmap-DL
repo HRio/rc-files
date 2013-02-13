@@ -1,4 +1,4 @@
-# For Dell Laptop with US keyboard
+! For Dell Laptop with US keyboard
 keycode  47 = semicolon colon odiaeresis Odiaeresis
 keycode  34 = bracketleft braceleft aring Aring
 keycode  48 = apostrophe quotedbl adiaeresis Adiaeresis
