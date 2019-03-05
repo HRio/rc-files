@@ -6,7 +6,7 @@ git_prompt_info() {
 }
 
 # Disable beeps
-xset b off
+#xset b off
 
 setopt prompt_subst
 
@@ -37,8 +37,10 @@ autoload -Uz down-line-or-beginning-search
 zle -N up-line-or-beginning-search up-line-or-beginning-search
 zle -N down-line-or-beginning-search down-line-or-beginning-search
 bindkey -v
-bindkey "^[[A" up-line-or-beginning-search
-bindkey "^[[B" down-line-or-beginning-search
+#bindkey "^[[A" up-line-or-beginning-search
+#bindkey "^[[B" down-line-or-beginning-search
+bindkey "${key[Up]}" up-line-or-beginning-search
+bindkey "${key[Down]}" down-line-or-beginning-search
 
 # Auto completion
 autoload -U compinit
