@@ -1,0 +1,7 @@
+! For Happy Hacking KeyBoard Professional Classic
+keycode  26 = e E eacute
+keycode  34 = bracketleft braceleft aring Aring
+keycode  47 = semicolon colon odiaeresis Odiaeresis
+keycode  48 = apostrophe quotedbl adiaeresis Adiaeresis
+keycode 133 = SunCompose
+keycode 100 = Mode_switch
